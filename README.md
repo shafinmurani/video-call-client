@@ -1,4 +1,4 @@
-# video-call-client
+# Video Call Client
 Pre-requisites = python3 and vidstream
 
 Installing python3 on linux :
