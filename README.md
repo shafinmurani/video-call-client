@@ -10,4 +10,4 @@ Debian/Ubuntu : <br>
 
 Installing VidStream :
 
-`pip3 install vidstream`
+`pip3 install vidstream` or `python3 -m pip install vidstream`
