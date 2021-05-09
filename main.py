@@ -2,7 +2,6 @@
 
 from vidstream import *
 import tkinter as tk
-import socket
 import threading
 
 localIpAddress = "0.0.0.0"
@@ -49,5 +48,8 @@ startScreenSharingBtn.pack(anchor=tk.CENTER, expand=True)
 
 startCameraStream = tk.Button(window, text="Start Streaming Video from camera", width=50, command=startCamera)
 startCameraStream.pack(anchor=tk.CENTER, expand=True)
+
+startAudioStream = tk.Button(window, text="Start Audio stream through mic", width=50, command=startAudioStream)
+startAudioStream.pack()
 
 window.mainloop()
