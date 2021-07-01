@@ -1,6 +1,6 @@
 # Video Call Client
 Pre-requisites = python3 and vidstream
-- Note : Only works on LAN, Bridged Adapters and VPN. You will have to set-up port forwarding and make some changes in the code for using it on the internet
+- Note : Only works on LAN, Bridged Adapters and VPN. You will have to set-up port forwarding and make some changes in the code for using it on the internet<br><br>
 Installing python3 on linux :
 
 Manjaro or any arch based distro :  <br>
